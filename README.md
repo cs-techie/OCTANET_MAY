@@ -1,2 +1,3 @@
 # OCTANET_MAY
-landing page...@Shankar Pendyala
+landing page using html,css and javascript...
+@Shankar Pendyala
